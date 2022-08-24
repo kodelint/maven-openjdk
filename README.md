@@ -17,4 +17,4 @@
 
 This repo usage [hadolint](https://github.com/hadolint/hadolint) for `Dockefile` linting process. Any push the `main` branch will trigger [dockerfile-lint](https://github.com/kodelint/maven-openjdk/blob/main/.github/workflows/dockerfile-lint.yml). For ignore certain warning please use [.hodolint.yaml](https://github.com/kodelint/maven-openjdk/blob/main/.hadolint.yaml)
 
-**GITHUB Repo:** [cloudcli](https://github.com/kodelint/maven-openjdk)
+**GITHUB Repo:** [maven-openjdk](https://github.com/kodelint/maven-openjdk)
